@@ -1,1 +1,2 @@
-Please follow [the GitHub Docs contributing guide](https://github.com/github/docs/blob/a107d854397cc1a346fa011fd1d5dc0a573a2d3f/.github/CONTRIBUTING.md).
+All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
+Template from [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github?specialization=ibm-full-stack-cloud-developer) course (part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
