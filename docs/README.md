@@ -16,14 +16,6 @@ The project is a static single-page portfolio which can be shared with prospecti
 - New recommendations get added to the existing list of recommendations.
 - Upon submitting a recommendation, a pop-up message with a confirmation dialogue appears.
 
-## Screenshots
-<img width="1481" alt="aboutme" src="https://github.com/nathandeflavis/NathanDeFlavis-portfolio/assets/92447278/62cd55f2-2db8-47a3-becf-c6f1c7066580">
-<sub>About Me.</sub>
-<img width="1480" alt="nav_bar" src="https://github.com/nathandeflavis/NathanDeFlavis-portfolio/assets/92447278/1cc13944-af20-4962-bd65-b6a67d17731a">
-<sub>Navigation bar.</sub>
-<img width="1480" alt="profile_name" src="https://github.com/nathandeflavis/NathanDeFlavis-portfolio/assets/92447278/8b7ac2a4-c9e4-449e-ac38-7c67ea894163">
-<sub>Profile name.</sub>
-
 # Why is the project useful?
 It's an opportunity to put my HTML, CSS and JavaScript skills into practice.
 
