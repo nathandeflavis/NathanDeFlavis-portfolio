@@ -8,7 +8,7 @@ None.
 ## Reporting a Vulnerability
 
 ### Where do I go?
-You can report a vulnerability [here](https://github.com/nathandeflavis/NathanDeFlavis-portfolio/security/advisories/new).
+You can report a vulnerability [here](https://github.com/nathangjdf/NathanD-portfolio/security/advisories/new).
 
 ### How often can I expect to get an update on a reported vulnerability?
 Periodically throughout the year.
