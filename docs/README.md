@@ -29,3 +29,4 @@ Users can contact the project's maintainers and contributors for help.
 @nathangjdf
 
 README adapted from [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+Profile image by OpenClipart-Vectors on Pixabay.com.
