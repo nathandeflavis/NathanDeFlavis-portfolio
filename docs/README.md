@@ -1,4 +1,4 @@
-# NathanD-portfolio
+# NathanDeFlavis-portfolio
 A portfolio page (Final Project in [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
 # What does the project do?
@@ -20,13 +20,13 @@ The project is a static single-page portfolio which can be shared with prospecti
 It's an opportunity to put my HTML, CSS and JavaScript skills into practice.
 
 # How can users can get started with the project?
-Please see [the project's GitHub Pages site](https://nathangjdf.github.io/NathanD-portfolio/).
+Please see [the project's GitHub Pages site](https://nathandeflavis.github.io/NathanDeFlavis-portfolio/).
 
 # Where can users can get help with the project?
 Users can contact the project's maintainers and contributors for help.
 
 # Who maintains and contributes to the project?
-@nathangjdf
+@nathandeflavis
 
 README adapted from [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 Profile image by OpenClipart-Vectors on Pixabay.com.
