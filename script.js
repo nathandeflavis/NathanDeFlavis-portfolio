@@ -10,7 +10,14 @@ function addRecommendation() {
     // Create a new 'recommendation' element and set it's value to the user's message
     var element = document.createElement("div");
     element.setAttribute("class","recommendation");
-    element.innerHTML = "\<span\>&#8220;\</span\>" + recommendation.value + "\<span\>&#8221;\</span\>";
+    var openQuote = document.createElement("span");
+    openQuote.innerHTML = "&#8220;";
+    var textNode = document.createTextNode(recommendation.value);
+    var closeQuote = document.createElement("span");
+    closeQuote.innerHTML = "&#8221;";
+    element.appendChild(openQuote);
+    element.appendChild(textNode);
+    element.appendChild(closeQuote);
     // Add this element to the end of the list of recommendations
     document.getElementById("all_recommendations").appendChild(element); 
     
