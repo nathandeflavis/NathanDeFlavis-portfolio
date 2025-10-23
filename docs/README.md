@@ -29,4 +29,4 @@ Users can contact the project's maintainers and contributors for help.
 @nathandeflavis
 
 README adapted from [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
-Profile image by OpenClipart-Vectors on Pixabay.com.
+Profile image (in project's GitHub Pages site) by OpenClipart-Vectors on Pixabay.com.
