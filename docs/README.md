@@ -28,5 +28,12 @@ Users can contact the project's maintainers and contributors for help.
 # Who maintains and contributes to the project?
 @nathandeflavis
 
+# Disclaimer
+Use of this repository's software is at the user's own risk. The software's author(s) disclaim liability for any damages arising from the software's use.
+
+# Credit
 README adapted from [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+
+Disclaimer adapted from [No Responsibility Disclaimer Examples and A Template - Usercentrics](https://usercentrics.com/guides/website-disclaimers/no-responsibility-disclaimer/).
+
 Profile image (in project's GitHub Pages site) by OpenClipart-Vectors on Pixabay.com.
